@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# React + Vite
+# Loan Bank Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project that demonstrates applying for a loan in a bank. This application uses **React components**, **state management (useState)**, and **dynamic rendering** to create an interactive user experience.
 
-Currently, two official plugins are available:
+## Features
+- Apply for a loan with user details.
+- Display loan application status dynamically.
+- Simple and clean user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# LoanInBank
->>>>>>> 0f190dc6e1ec962d7ce954c0314fbc77aa66105e
+## Technologies Used
+- React (Functional Components)
+- JavaScript (ES6+)
+- CSS (for styling)
+
+
